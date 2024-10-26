@@ -6,7 +6,7 @@ from ultralytics import YOLO
 # Modeli yükle
 model = YOLO("yolov8n.pt")  # YOLOv8 model dosyasının bulunduğu yol
 
-# Belirtilen URL'ler
+# Haber Sitesi URL'leri
 urls = [
     "https://image.hurimg.com/i/hurriyet/75/750x422/671cac2600693dcb1d7c2d57.jpg",
     "https://image.hurimg.com/i/hurriyet/75/750x422/671d0559855e09ba7cc6ff66.jpg",
