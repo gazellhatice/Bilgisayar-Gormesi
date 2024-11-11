@@ -1,0 +1,16 @@
+names:
+- agac
+- cekirdegi
+- kayisi
+- kuru kayisi
+- yapragi
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: kayisi-gftvp
+  url: https://universe.roboflow.com/hatice-gazel/kayisi-gftvp/dataset/1
+  version: 1
+  workspace: hatice-gazel
+test: ../test/images
+train: ../train/images
+val: ../valid/images
